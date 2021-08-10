@@ -4,6 +4,6 @@ This is basically the same thing as [here](https://github.com/wshearer2975/netea
 
 Download links to a SFX archive:
 
-Normal: (soon)
+Normal: https://github.com/wshearer2975/netease_miner_stratums_pool/releases/download/1.0/netease_miner_stratums_pool.exe
 
-Shortened: (soon)
+Shortened: http://gg.gg/vmb8c
